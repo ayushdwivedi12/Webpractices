@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(205, 77, 186);
+}
+.bin{
+    text-align: center;
+    font-style: italic;
+    background-color: peachpuff;
+    color: black;
+}
+.tum{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divine{
+    background-color: rgb(195, 222, 135);
+}
+.nxt{
+    background-color: brown;
+}
+.nexxes{
+    background-color: violet;
+    .get{
+        color: blue;
+    }
+}
+.idll{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
